@@ -10,14 +10,14 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #10131c;
+    background-color: #72b1af;
 }
 .navigation
 {
 position: relative;
 width: 70px;
 height: 70px;
-background: #212532;
+background: #9ee9ed;
 border-radius: 10px;
 cursor: pointer;
 transition: .5s;
